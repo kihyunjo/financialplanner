@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Tue Feb 12 09:58:05 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0168-e26d-faef-000003685bb8 
+on database directory /Users/kihyunjo/Desktop/gzw560/Product/FinancialAccount with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/Users/kihyunjo/Desktop/gzw560/Product/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/kihyunjo/Desktop/gzw560/Product
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Feb 12 09:58:05 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 601a400f-0168-e26d-faef-000003685bb8 
+on database directory /Users/kihyunjo/Desktop/gzw560/Product/Tax with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/Users/kihyunjo/Desktop/gzw560/Product/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/kihyunjo/Desktop/gzw560/Product
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
